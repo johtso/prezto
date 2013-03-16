@@ -48,6 +48,12 @@ cdpath=(
 # Set the list of directories that Zsh searches for programs.
 path=(
   /usr/local/{bin,sbin}
+  ~/bin
+
+  /usr/local/share/python
+  /usr/local/opt/ruby/bin
+  /usr/local/share/npm/bin
+
   $path
 )
 
