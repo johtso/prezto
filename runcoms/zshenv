@@ -82,3 +82,9 @@ if [[ -d "$TMPDIR" ]]; then
   fi
 fi
 
+#
+# PIP
+#
+
+# Cache directory
+export PIP_DOWNLOAD_CACHE=~/Library/Caches/pip-downloads
