@@ -5,6 +5,10 @@
 #   Sorin Ionescu <sorin.ionescu@gmail.com>
 #
 
+# A tidy $HOME is a tidy mind
+# Keep all zsh files (apart from this one) in a directory named .zsh)
+export ZDOTDIR=~/.zsh
+
 #
 # Browser
 #
