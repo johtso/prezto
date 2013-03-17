@@ -30,10 +30,12 @@ zstyle ':prezto:load' pmodule \
   'history' \
   'directory' \
   'spectrum' \
+  'gnu-utility' \
   'utility' \
   'completion' \
   'archive' \
   'git' \
+  'osx' \
   'python' \
   'syntax-highlighting' \
   'history-substring-search' \
